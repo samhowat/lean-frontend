@@ -1,6 +1,6 @@
 # Lean Frontend
 
-A lean front-end setup using PostCSS, Rollup.js and BrowserSync.
+A lean frontend setup using PostCSS, Rollup.js and BrowserSync.
 
 ```bash
 npm install
