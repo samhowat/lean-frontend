@@ -1,3 +1,43 @@
-node_modules
+
 /dist
 .env
+
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages 
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+yarn.lock
+.tool-versions
+
+# Logs and databases 
+*.log
+*.sqlite
+
+# OS generated files 
+.DS_Store?
+*.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Directories 
+node_modules
+# /vendor
+# /composer.phar
+
+# Editor config
+# /.vscode
+# *.sublime-workspace
+# /.nova
